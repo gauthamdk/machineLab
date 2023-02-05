@@ -18,4 +18,4 @@ I did most of the calculations for length and width intuitively or by trial and 
 
 ## Short video
 
-![Video](./cam.mp4)
+![Click here to watch](https://www.youtube.com/watch?v=46N7KfDRVDs&ab_channel=GauthamDinesh)
