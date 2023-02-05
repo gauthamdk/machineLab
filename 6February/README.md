@@ -12,7 +12,7 @@ I did most of the calculations for length and width intuitively or by trial and 
 
 ## Progress pictures
 
-![Cam and cam follower](./IMG_7A50D0B90DF0-1-min.jpeg)
+![Cam and cam follower](./IMG_7A50D0B90DF0-1.jpeg)
 ![Motor and wheel](./IMG_7EB762448744-1-min.jpeg)
 ![Crank and slider](./IMG_A11BCA3B3118-1-min.jpeg)
 
